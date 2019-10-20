@@ -1,0 +1,53 @@
+Number of nodes is: 3
+Number of cores/ranks per node is: 2
+Metis norne Node cell partitioner
+ Cell on rank 0 before loadbalancing: 14869
+Cell on rank 1 before loadbalancing: 14895
+Cell on rank 2 before loadbalancing: 14667
+Edge-cut: 27103
+
+
+			Rank 0	Rank 1	Rank 2	Rank 3	Rank 4	Rank 5	
+From rank 0 to: 	0	170	0	280	0	0	
+From rank 1 to: 	169	0	141	201	0	0	
+From rank 2 to: 	0	141	0	467	0	560	
+From rank 3 to: 	279	193	484	0	0	0	
+From rank 4 to: 	0	0	0	0	0	510	
+From rank 5 to: 	0	0	551	0	512	0	
+
+After loadbalancing process 0 has 7922 cells.
+After loadbalancing process 1 has 7908 cells.
+After loadbalancing process 2 has 8618 cells.
+After loadbalancing process 3 has 8401 cells.
+After loadbalancing process 4 has 7844 cells.
+After loadbalancing process 5 has 8396 cells.
+
+
+=== rate=0, T=0, TIT=0, IT=0
+
+ Elapsed time: 0
+Rank 0: Matrix-vector product took 0.00623346 seconds
+Rank 1: Matrix-vector product took 0.00652569 seconds
+Rank 2: Matrix-vector product took 0.00722172 seconds
+Rank 3: Matrix-vector product took 0.00681536 seconds
+Rank 4: Matrix-vector product took 0.00637029 seconds
+Rank 5: Matrix-vector product took 0.00680823 seconds
+Average time for Matrix-vector product is 0.00666246 seconds
+
+Rank 0: copyOwnerToAll took 0.00014366 seconds
+Rank 1: copyOwnerToAll took 0.00014366 seconds
+Rank 2: copyOwnerToAll took 0.00014366 seconds
+Rank 3: copyOwnerToAll took 0.00014366 seconds
+Rank 4: copyOwnerToAll took 0.00014366 seconds
+Rank 5: copyOwnerToAll took 0.00014366 seconds
+Average time for copyOwnertoAll is 0.000164508 seconds
+
+
+
+			Rank 0	Rank 1	Rank 2	Rank 3	Rank 4	Rank 5	
+Rank 0's ghost cells:	0	170	0	280	0	0	
+Rank 1's ghost cells:	169	0	141	201	0	0	
+Rank 2's ghost cells:	0	141	0	467	0	560	
+Rank 3's ghost cells:	279	193	484	0	0	0	
+Rank 4's ghost cells:	0	0	0	0	0	510	
+Rank 5's ghost cells:	0	0	551	0	512	0	

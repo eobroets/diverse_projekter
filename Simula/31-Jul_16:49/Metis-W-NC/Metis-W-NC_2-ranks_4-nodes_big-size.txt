@@ -1,0 +1,64 @@
+Number of nodes is: 4
+Number of cores/ranks per node is: 2
+Metis Uniform NodeCell
+Cell on rank 0 before loadbalancing: 88899
+Cell on rank 1 before loadbalancing: 88892
+Cell on rank 2 before loadbalancing: 88919
+Cell on rank 3 before loadbalancing: 88697
+Edge-cut: 11867
+
+
+			Rank 0	Rank 1	Rank 2	Rank 3	Rank 4	Rank 5	Rank 6	Rank 7	
+From rank 0 to: 	0	839	0	0	0	0	0	0	
+From rank 1 to: 	846	0	0	1375	0	0	0	244	
+From rank 2 to: 	0	0	0	1233	0	1649	2129	0	
+From rank 3 to: 	0	1354	1243	0	0	0	1367	1391	
+From rank 4 to: 	0	0	0	0	0	1759	113	0	
+From rank 5 to: 	0	0	1632	0	1742	0	854	0	
+From rank 6 to: 	0	0	2341	1427	98	866	0	765	
+From rank 7 to: 	0	239	0	1279	0	0	750	0	
+
+After loadbalancing process 0 has 45282 cells.
+After loadbalancing process 1 has 46921 cells.
+After loadbalancing process 2 has 49455 cells.
+After loadbalancing process 3 has 49803 cells.
+After loadbalancing process 4 has 46332 cells.
+After loadbalancing process 5 has 48687 cells.
+After loadbalancing process 6 has 49838 cells.
+After loadbalancing process 7 has 46624 cells.
+
+
+=== rate=0, T=0, TIT=0, IT=0
+
+ Elapsed time: 0
+Rank 0: Matrix-vector product took 0.03699 seconds
+Rank 1: Matrix-vector product took 0.0387071 seconds
+Rank 2: Matrix-vector product took 0.0410707 seconds
+Rank 3: Matrix-vector product took 0.0411483 seconds
+Rank 4: Matrix-vector product took 0.0382748 seconds
+Rank 5: Matrix-vector product took 0.0400093 seconds
+Rank 6: Matrix-vector product took 0.040051 seconds
+Rank 7: Matrix-vector product took 0.0381439 seconds
+Average time for Matrix-vector product is 0.0392994 seconds
+
+Rank 0: copyOwnerToAll took 0.000460161 seconds
+Rank 1: copyOwnerToAll took 0.000460161 seconds
+Rank 2: copyOwnerToAll took 0.000460161 seconds
+Rank 3: copyOwnerToAll took 0.000460161 seconds
+Rank 4: copyOwnerToAll took 0.000460161 seconds
+Rank 5: copyOwnerToAll took 0.000460161 seconds
+Rank 6: copyOwnerToAll took 0.000460161 seconds
+Rank 7: copyOwnerToAll took 0.000460161 seconds
+Average time for copyOwnertoAll is 0.000478078 seconds
+
+
+
+			Rank 0	Rank 1	Rank 2	Rank 3	Rank 4	Rank 5	Rank 6	Rank 7	
+Rank 0's ghost cells:	0	839	0	0	0	0	0	0	
+Rank 1's ghost cells:	846	0	0	1375	0	0	0	244	
+Rank 2's ghost cells:	0	0	0	1233	0	1649	2129	0	
+Rank 3's ghost cells:	0	1354	1243	0	0	0	1367	1391	
+Rank 4's ghost cells:	0	0	0	0	0	1759	113	0	
+Rank 5's ghost cells:	0	0	1632	0	1742	0	854	0	
+Rank 6's ghost cells:	0	0	2341	1427	98	866	0	765	
+Rank 7's ghost cells:	0	239	0	1279	0	0	750	0	

@@ -1,0 +1,95 @@
+Number of nodes is: 3
+Number of cores/ranks per node is: 4
+Metis Uniform CellNode
+Cell on rank 0 before loadbalancing: 29653
+Cell on rank 1 before loadbalancing: 29646
+Cell on rank 2 before loadbalancing: 29643
+Cell on rank 3 before loadbalancing: 29653
+Cell on rank 4 before loadbalancing: 29621
+Cell on rank 5 before loadbalancing: 29613
+Cell on rank 6 before loadbalancing: 29647
+Cell on rank 7 before loadbalancing: 29612
+Cell on rank 8 before loadbalancing: 29618
+Cell on rank 9 before loadbalancing: 29620
+Cell on rank 10 before loadbalancing: 29510
+Cell on rank 11 before loadbalancing: 29571
+Edge-cut: -2147457540
+
+
+			Rank 0	Rank 1	Rank 2	Rank 3	Rank 4	Rank 5	Rank 6	Rank 7	Rank 8	Rank 9	Rank 10	Rank 11	
+From rank 0 to: 	0	746	0	140	0	0	741	0	0	0	144	880	
+From rank 1 to: 	752	0	859	35	0	0	0	0	0	0	0	304	
+From rank 2 to: 	0	846	0	1271	0	96	0	0	0	0	0	0	
+From rank 3 to: 	141	22	1235	0	0	94	945	0	354	11	0	0	
+From rank 4 to: 	0	0	0	0	0	1373	0	302	0	760	0	497	
+From rank 5 to: 	0	0	96	88	1311	0	0	0	66	815	0	0	
+From rank 6 to: 	733	0	0	915	0	0	0	227	1499	1501	0	536	
+From rank 7 to: 	0	0	0	0	306	0	237	0	1565	1352	0	597	
+From rank 8 to: 	0	0	0	381	0	66	1544	1573	0	779	0	774	
+From rank 9 to: 	0	0	0	6	744	813	1646	1381	805	0	0	418	
+From rank 10 to: 	144	0	0	0	0	0	0	0	0	0	0	638	
+From rank 11 to: 	890	302	0	0	497	0	529	594	805	432	637	0	
+
+Edge-cut for node partition: 10353
+
+
+After loadbalancing process 0 has 32304 cells.
+After loadbalancing process 1 has 31596 cells.
+After loadbalancing process 2 has 32455 cells.
+After loadbalancing process 3 has 30292 cells.
+After loadbalancing process 4 has 35058 cells.
+After loadbalancing process 5 has 33669 cells.
+After loadbalancing process 6 has 34735 cells.
+After loadbalancing process 7 has 35433 cells.
+After loadbalancing process 8 has 31856 cells.
+After loadbalancing process 9 has 32553 cells.
+After loadbalancing process 10 has 31989 cells.
+After loadbalancing process 11 has 34257 cells.
+
+
+=== rate=0, T=0, TIT=0, IT=0
+
+ Elapsed time: 0
+Rank 0: Matrix-vector product took 0.0267531 seconds
+Rank 1: Matrix-vector product took 0.0255369 seconds
+Rank 2: Matrix-vector product took 0.0267166 seconds
+Rank 3: Matrix-vector product took 0.0245211 seconds
+Rank 4: Matrix-vector product took 0.0286957 seconds
+Rank 5: Matrix-vector product took 0.0275833 seconds
+Rank 6: Matrix-vector product took 0.028181 seconds
+Rank 7: Matrix-vector product took 0.0290548 seconds
+Rank 8: Matrix-vector product took 0.0258149 seconds
+Rank 9: Matrix-vector product took 0.0263837 seconds
+Rank 10: Matrix-vector product took 0.0259595 seconds
+Rank 11: Matrix-vector product took 0.0279176 seconds
+Average time for Matrix-vector product is 0.0269265 seconds
+
+Rank 0: copyOwnerToAll took 0.00048645 seconds
+Rank 1: copyOwnerToAll took 0.00048645 seconds
+Rank 2: copyOwnerToAll took 0.00048645 seconds
+Rank 3: copyOwnerToAll took 0.00048645 seconds
+Rank 4: copyOwnerToAll took 0.00048645 seconds
+Rank 5: copyOwnerToAll took 0.00048645 seconds
+Rank 6: copyOwnerToAll took 0.00048645 seconds
+Rank 7: copyOwnerToAll took 0.00048645 seconds
+Rank 8: copyOwnerToAll took 0.00048645 seconds
+Rank 9: copyOwnerToAll took 0.00048645 seconds
+Rank 10: copyOwnerToAll took 0.00048645 seconds
+Rank 11: copyOwnerToAll took 0.00048645 seconds
+Average time for copyOwnertoAll is 0.000532058 seconds
+
+
+
+			Rank 0	Rank 1	Rank 2	Rank 3	Rank 4	Rank 5	Rank 6	Rank 7	Rank 8	Rank 9	Rank 10	Rank 11	
+Rank 0's ghost cells:	0	746	140	144	741	0	0	0	0	0	0	880	
+Rank 1's ghost cells:	752	0	35	0	0	0	0	0	859	0	0	304	
+Rank 2's ghost cells:	141	22	0	0	945	0	354	11	1235	0	94	0	
+Rank 3's ghost cells:	144	0	0	0	0	0	0	0	0	0	0	638	
+Rank 4's ghost cells:	733	0	915	0	0	227	1499	1501	0	0	0	536	
+Rank 5's ghost cells:	0	0	0	0	237	0	1565	1352	0	306	0	597	
+Rank 6's ghost cells:	0	0	381	0	1544	1573	0	779	0	0	66	774	
+Rank 7's ghost cells:	0	0	6	0	1646	1381	805	0	0	744	813	418	
+Rank 8's ghost cells:	0	846	1271	0	0	0	0	0	0	0	96	0	
+Rank 9's ghost cells:	0	0	0	0	0	302	0	760	0	0	1373	497	
+Rank 10's ghost cells:	0	0	88	0	0	0	66	815	96	1311	0	0	
+Rank 11's ghost cells:	890	302	0	637	529	594	805	432	0	497	0	0	

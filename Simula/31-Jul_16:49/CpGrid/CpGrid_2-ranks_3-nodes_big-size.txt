@@ -1,0 +1,56 @@
+Number of nodes is: 3
+Number of cores/ranks per node is: 2
+cpGrid partitioner
+
+
+			Rank 0	Rank 1	Rank 2	Rank 3	Rank 4	Rank 5	
+From rank 0 to: 	0	3968	1188	4416	17	1591	
+From rank 1 to: 	3710	0	3028	6181	577	950	
+From rank 2 to: 	1036	2779	0	3021	446	1351	
+From rank 3 to: 	4386	6724	4412	0	2933	2710	
+From rank 4 to: 	23	360	395	2714	0	1132	
+From rank 5 to: 	1500	889	1839	2414	861	0	
+
+Cell on rank 0 before loadbalancing: 61641
+Cell on rank 1 before loadbalancing: 60170
+Cell on rank 2 before loadbalancing: 61909
+Cell on rank 3 before loadbalancing: 60674
+Cell on rank 4 before loadbalancing: 60693
+Cell on rank 5 before loadbalancing: 50320
+
+After loadbalancing process 0 has 72821 cells.
+After loadbalancing process 1 has 74616 cells.
+After loadbalancing process 2 has 70542 cells.
+After loadbalancing process 3 has 81839 cells.
+After loadbalancing process 4 has 65317 cells.
+After loadbalancing process 5 has 57825 cells.
+
+
+=== rate=0, T=0, TIT=0, IT=0
+
+ Elapsed time: 0
+Rank 0: Matrix-vector product took 0.0602778 seconds
+Rank 1: Matrix-vector product took 0.0608973 seconds
+Rank 2: Matrix-vector product took 0.0585812 seconds
+Rank 3: Matrix-vector product took 0.0653812 seconds
+Rank 4: Matrix-vector product took 0.0536304 seconds
+Rank 5: Matrix-vector product took 0.0477072 seconds
+Average time for Matrix-vector product is 0.0577458 seconds
+
+Rank 0: copyOwnerToAll took 0.00129957 seconds
+Rank 1: copyOwnerToAll took 0.00129957 seconds
+Rank 2: copyOwnerToAll took 0.00129957 seconds
+Rank 3: copyOwnerToAll took 0.00129957 seconds
+Rank 4: copyOwnerToAll took 0.00129957 seconds
+Rank 5: copyOwnerToAll took 0.00129957 seconds
+Average time for copyOwnertoAll is 0.00131415 seconds
+
+
+
+			Rank 0	Rank 1	Rank 2	Rank 3	Rank 4	Rank 5	
+Rank 0's ghost cells:	0	3968	1188	4416	17	1591	
+Rank 1's ghost cells:	3710	0	3028	6181	577	950	
+Rank 2's ghost cells:	1036	2779	0	3021	446	1351	
+Rank 3's ghost cells:	4386	6724	4412	0	2933	2710	
+Rank 4's ghost cells:	23	360	395	2714	0	1132	
+Rank 5's ghost cells:	1500	889	1839	2416	861	0	

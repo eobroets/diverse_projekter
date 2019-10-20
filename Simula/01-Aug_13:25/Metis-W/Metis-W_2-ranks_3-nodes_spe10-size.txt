@@ -1,0 +1,56 @@
+Number of nodes is: 3
+Number of cores/ranks per node is: 2
+Metis Uniform
+Cell on rank 0 before loadbalancing: 186991
+Cell on rank 1 before loadbalancing: 187001
+Cell on rank 2 before loadbalancing: 186998
+Cell on rank 3 before loadbalancing: 187003
+Cell on rank 4 before loadbalancing: 187001
+Cell on rank 5 before loadbalancing: 187005
+Edge-cut: 41199
+
+
+			Rank 0	Rank 1	Rank 2	Rank 3	Rank 4	Rank 5	
+From rank 0 to: 	0	3002	2141	0	3208	0	
+From rank 1 to: 	3028	0	4361	273	0	1839	
+From rank 2 to: 	2141	4398	0	1620	0	1878	
+From rank 3 to: 	0	295	1660	0	5318	6066	
+From rank 4 to: 	3387	0	0	5384	0	3450	
+From rank 5 to: 	0	1824	1871	5939	3393	0	
+
+After loadbalancing process 0 has 195342 cells.
+After loadbalancing process 1 has 196502 cells.
+After loadbalancing process 2 has 197035 cells.
+After loadbalancing process 3 has 200342 cells.
+After loadbalancing process 4 has 199222 cells.
+After loadbalancing process 5 has 200032 cells.
+
+
+=== rate=0, T=0, TIT=0, IT=0
+
+ Elapsed time: 0
+Rank 0: Matrix-vector product took 0.159019 seconds
+Rank 1: Matrix-vector product took 0.168779 seconds
+Rank 2: Matrix-vector product took 0.160449 seconds
+Rank 3: Matrix-vector product took 0.163151 seconds
+Rank 4: Matrix-vector product took 0.161681 seconds
+Rank 5: Matrix-vector product took 0.161817 seconds
+Average time for Matrix-vector product is 0.162483 seconds
+
+Rank 0: copyOwnerToAll took 0.0009293 seconds
+Rank 1: copyOwnerToAll took 0.0009293 seconds
+Rank 2: copyOwnerToAll took 0.0009293 seconds
+Rank 3: copyOwnerToAll took 0.0009293 seconds
+Rank 4: copyOwnerToAll took 0.0009293 seconds
+Rank 5: copyOwnerToAll took 0.0009293 seconds
+Average time for copyOwnertoAll is 0.00095352 seconds
+
+
+
+			Rank 0	Rank 1	Rank 2	Rank 3	Rank 4	Rank 5	
+Rank 0's ghost cells:	0	3002	2141	0	3208	0	
+Rank 1's ghost cells:	3028	0	4361	273	0	1839	
+Rank 2's ghost cells:	2141	4398	0	1620	0	1878	
+Rank 3's ghost cells:	0	295	1660	0	5318	6066	
+Rank 4's ghost cells:	3387	0	0	5384	0	3450	
+Rank 5's ghost cells:	0	1824	1871	5939	3393	0	

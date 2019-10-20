@@ -1,0 +1,59 @@
+Number of nodes is: 3
+Number of cores/ranks per node is: 2
+cpGrid partitioner
+
+
+			Rank 0	Rank 1	Rank 2	Rank 3	Rank 4	Rank 5	
+From rank 0 to: 	0	570	1063	445	172	168	
+From rank 1 to: 	611	0	911	154	746	301	
+From rank 2 to: 	928	903	0	225	0	24	
+From rank 3 to: 	411	154	284	0	629	485	
+From rank 4 to: 	179	579	0	475	0	102	
+From rank 5 to: 	204	433	10	521	121	0	
+
+Cell on rank 0 before loadbalancing: 7689
+Cell on rank 1 before loadbalancing: 7737
+Cell on rank 2 before loadbalancing: 7539
+Cell on rank 3 before loadbalancing: 7399
+Cell on rank 4 before loadbalancing: 7764
+Cell on rank 5 before loadbalancing: 6303
+
+Edge-cut for node partition: 2056
+
+
+After loadbalancing process 0 has 10107 cells.
+After loadbalancing process 1 has 10460 cells.
+After loadbalancing process 2 has 9619 cells.
+After loadbalancing process 3 has 9362 cells.
+After loadbalancing process 4 has 9099 cells.
+After loadbalancing process 5 has 7592 cells.
+
+
+=== rate=0, T=0, TIT=0, IT=0
+
+ Elapsed time: 0
+Rank 0: Matrix-vector product took 0.00833867 seconds
+Rank 1: Matrix-vector product took 0.00855378 seconds
+Rank 2: Matrix-vector product took 0.00790598 seconds
+Rank 3: Matrix-vector product took 0.00758804 seconds
+Rank 4: Matrix-vector product took 0.0074476 seconds
+Rank 5: Matrix-vector product took 0.00574729 seconds
+Average time for Matrix-vector product is 0.00759689 seconds
+
+Rank 0: copyOwnerToAll took 0.00026548 seconds
+Rank 1: copyOwnerToAll took 0.00026548 seconds
+Rank 2: copyOwnerToAll took 0.00026548 seconds
+Rank 3: copyOwnerToAll took 0.00026548 seconds
+Rank 4: copyOwnerToAll took 0.00026548 seconds
+Rank 5: copyOwnerToAll took 0.00026548 seconds
+Average time for copyOwnertoAll is 0.000286775 seconds
+
+
+
+			Rank 0	Rank 1	Rank 2	Rank 3	Rank 4	Rank 5	
+Rank 0's ghost cells:	0	570	1063	445	172	168	
+Rank 1's ghost cells:	611	0	911	154	746	301	
+Rank 2's ghost cells:	928	903	0	225	0	24	
+Rank 3's ghost cells:	411	154	284	0	629	485	
+Rank 4's ghost cells:	179	579	0	475	0	102	
+Rank 5's ghost cells:	204	433	10	521	121	0	

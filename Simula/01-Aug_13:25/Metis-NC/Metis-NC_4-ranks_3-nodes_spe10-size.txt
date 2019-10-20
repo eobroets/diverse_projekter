@@ -1,0 +1,83 @@
+Number of nodes is: 3
+Number of cores/ranks per node is: 4
+Metis Node Cell
+ Cell on rank 0 before loadbalancing: 374006
+Cell on rank 1 before loadbalancing: 373992
+Cell on rank 2 before loadbalancing: 374001
+Edge-cut: 12073
+
+
+			Rank 0	Rank 1	Rank 2	Rank 3	Rank 4	Rank 5	Rank 6	Rank 7	Rank 8	Rank 9	Rank 10	Rank 11	
+From rank 0 to: 	0	2361	2147	150	0	0	0	0	0	0	0	0	
+From rank 1 to: 	2361	0	0	2247	0	0	0	0	0	0	0	2389	
+From rank 2 to: 	2150	0	0	2761	0	0	0	0	0	0	0	0	
+From rank 3 to: 	151	2246	2760	0	0	0	0	0	2434	0	0	376	
+From rank 4 to: 	0	0	0	0	0	2605	2074	502	0	0	0	0	
+From rank 5 to: 	0	0	0	0	2605	0	0	1747	0	17	2731	0	
+From rank 6 to: 	0	0	0	0	2074	0	0	2488	0	0	0	0	
+From rank 7 to: 	0	0	0	0	496	1746	2488	0	0	2365	62	0	
+From rank 8 to: 	0	0	0	2439	0	0	0	0	0	2262	374	1888	
+From rank 9 to: 	0	0	0	0	0	17	0	2367	2262	0	2269	0	
+From rank 10 to: 	0	0	0	0	0	2728	0	62	358	2270	0	2866	
+From rank 11 to: 	0	2369	0	376	0	0	0	0	1888	0	2866	0	
+
+After loadbalancing process 0 has 98159 cells.
+After loadbalancing process 1 has 100500 cells.
+After loadbalancing process 2 has 98411 cells.
+After loadbalancing process 3 has 101469 cells.
+After loadbalancing process 4 has 98688 cells.
+After loadbalancing process 5 has 100588 cells.
+After loadbalancing process 6 has 98059 cells.
+After loadbalancing process 7 has 100657 cells.
+After loadbalancing process 8 has 100458 cells.
+After loadbalancing process 9 has 100425 cells.
+After loadbalancing process 10 has 101782 cells.
+After loadbalancing process 11 has 100997 cells.
+
+
+=== rate=0, T=0, TIT=0, IT=0
+
+ Elapsed time: 0
+Rank 0: Matrix-vector product took 0.0796137 seconds
+Rank 1: Matrix-vector product took 0.0817745 seconds
+Rank 2: Matrix-vector product took 0.0800848 seconds
+Rank 3: Matrix-vector product took 0.0824442 seconds
+Rank 4: Matrix-vector product took 0.0801066 seconds
+Rank 5: Matrix-vector product took 0.0815334 seconds
+Rank 6: Matrix-vector product took 0.0795229 seconds
+Rank 7: Matrix-vector product took 0.0818687 seconds
+Rank 8: Matrix-vector product took 0.0811766 seconds
+Rank 9: Matrix-vector product took 0.0823741 seconds
+Rank 10: Matrix-vector product took 0.0827076 seconds
+Rank 11: Matrix-vector product took 0.0820059 seconds
+Average time for Matrix-vector product is 0.0812677 seconds
+
+Rank 0: copyOwnerToAll took 0.00057344 seconds
+Rank 1: copyOwnerToAll took 0.00057344 seconds
+Rank 2: copyOwnerToAll took 0.00057344 seconds
+Rank 3: copyOwnerToAll took 0.00057344 seconds
+Rank 4: copyOwnerToAll took 0.00057344 seconds
+Rank 5: copyOwnerToAll took 0.00057344 seconds
+Rank 6: copyOwnerToAll took 0.00057344 seconds
+Rank 7: copyOwnerToAll took 0.00057344 seconds
+Rank 8: copyOwnerToAll took 0.00057344 seconds
+Rank 9: copyOwnerToAll took 0.00057344 seconds
+Rank 10: copyOwnerToAll took 0.00057344 seconds
+Rank 11: copyOwnerToAll took 0.00057344 seconds
+Average time for copyOwnertoAll is 0.000586654 seconds
+
+
+
+			Rank 0	Rank 1	Rank 2	Rank 3	Rank 4	Rank 5	Rank 6	Rank 7	Rank 8	Rank 9	Rank 10	Rank 11	
+Rank 0's ghost cells:	0	2361	2147	150	0	0	0	0	0	0	0	0	
+Rank 1's ghost cells:	2361	0	0	2247	0	0	0	0	0	0	0	2389	
+Rank 2's ghost cells:	2150	0	0	2761	0	0	0	0	0	0	0	0	
+Rank 3's ghost cells:	151	2246	2760	0	0	0	0	0	2434	0	0	376	
+Rank 4's ghost cells:	0	0	0	0	0	2605	2074	502	0	0	0	0	
+Rank 5's ghost cells:	0	0	0	0	2605	0	0	1747	0	17	2731	0	
+Rank 6's ghost cells:	0	0	0	0	2074	0	0	2488	0	0	0	0	
+Rank 7's ghost cells:	0	0	0	0	496	1746	2488	0	0	2365	62	0	
+Rank 8's ghost cells:	0	0	0	2439	0	0	0	0	0	2262	374	1888	
+Rank 9's ghost cells:	0	0	0	0	0	17	0	2367	2262	0	2269	0	
+Rank 10's ghost cells:	0	0	0	0	0	2728	0	62	358	2270	0	2866	
+Rank 11's ghost cells:	0	2369	0	376	0	0	0	0	1888	0	2866	0	

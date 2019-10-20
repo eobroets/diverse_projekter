@@ -1,0 +1,116 @@
+Number of nodes is: 4
+Number of cores/ranks per node is: 4
+cpGrid partitioner
+
+
+			Rank 0	Rank 1	Rank 2	Rank 3	Rank 4	Rank 5	Rank 6	Rank 7	Rank 8	Rank 9	Rank 10	Rank 11	Rank 12	Rank 13	Rank 14	Rank 15	
+From rank 0 to: 	0	1307	101	214	936	603	48	0	498	0	265	9	69	0	657	281	
+From rank 1 to: 	1370	0	64	558	52	38	0	0	351	0	995	602	0	0	203	338	
+From rank 2 to: 	93	163	0	944	625	1633	118	59	0	0	70	70	111	0	29	27	
+From rank 3 to: 	300	763	1003	0	85	145	0	14	4	0	671	54	60	0	60	197	
+From rank 4 to: 	1004	52	633	49	0	1624	1332	379	51	0	0	0	409	165	126	64	
+From rank 5 to: 	564	40	1593	107	1540	0	1637	1080	43	0	0	0	126	231	3243	689	
+From rank 6 to: 	48	0	115	0	1317	1658	0	1080	0	0	0	0	188	1	0	0	
+From rank 7 to: 	0	0	103	28	351	1016	1024	0	156	0	0	0	0	0	407	8	
+From rank 8 to: 	837	434	0	9	21	28	0	152	0	543	206	44	312	676	3160	490	
+From rank 9 to: 	0	0	0	0	0	0	0	0	531	0	121	0	140	466	953	220	
+From rank 10 to: 	378	854	24	690	0	0	0	0	187	250	0	1951	64	559	11	13	
+From rank 11 to: 	10	590	52	35	0	0	0	0	26	0	1775	0	0	0	0	0	
+From rank 12 to: 	342	0	106	125	367	150	158	0	333	512	102	0	0	1236	1590	2239	
+From rank 13 to: 	0	0	0	0	149	249	1	0	793	519	362	0	1131	0	1019	1720	
+From rank 14 to: 	766	202	51	54	154	3741	0	365	3019	1089	18	0	1535	1555	0	1687	
+From rank 15 to: 	364	329	38	94	87	769	0	2	534	259	11	0	1802	1782	1851	0	
+
+Cell on rank 0 before loadbalancing: 23249
+Cell on rank 1 before loadbalancing: 19210
+Cell on rank 2 before loadbalancing: 23129
+Cell on rank 3 before loadbalancing: 22409
+Cell on rank 4 before loadbalancing: 23102
+Cell on rank 5 before loadbalancing: 23173
+Cell on rank 6 before loadbalancing: 23061
+Cell on rank 7 before loadbalancing: 22971
+Cell on rank 8 before loadbalancing: 22500
+Cell on rank 9 before loadbalancing: 21548
+Cell on rank 10 before loadbalancing: 21460
+Cell on rank 11 before loadbalancing: 23260
+Cell on rank 12 before loadbalancing: 20031
+Cell on rank 13 before loadbalancing: 23184
+Cell on rank 14 before loadbalancing: 23318
+Cell on rank 15 before loadbalancing: 19802
+
+After loadbalancing process 0 has 28237 cells.
+After loadbalancing process 1 has 23783 cells.
+After loadbalancing process 2 has 27071 cells.
+After loadbalancing process 3 has 25765 cells.
+After loadbalancing process 4 has 28990 cells.
+After loadbalancing process 5 has 34066 cells.
+After loadbalancing process 6 has 27468 cells.
+After loadbalancing process 7 has 26064 cells.
+After loadbalancing process 8 has 29414 cells.
+After loadbalancing process 9 has 23979 cells.
+After loadbalancing process 10 has 26441 cells.
+After loadbalancing process 11 has 25748 cells.
+After loadbalancing process 12 has 27291 cells.
+After loadbalancing process 13 has 29127 cells.
+After loadbalancing process 14 has 37554 cells.
+After loadbalancing process 15 has 27724 cells.
+
+
+=== rate=0, T=0, TIT=0, IT=0
+
+ Elapsed time: 0
+Rank 0: Matrix-vector product took 0.0233379 seconds
+Rank 1: Matrix-vector product took 0.0195237 seconds
+Rank 2: Matrix-vector product took 0.0214203 seconds
+Rank 3: Matrix-vector product took 0.0203007 seconds
+Rank 4: Matrix-vector product took 0.0239277 seconds
+Rank 5: Matrix-vector product took 0.0277525 seconds
+Rank 6: Matrix-vector product took 0.0226718 seconds
+Rank 7: Matrix-vector product took 0.021393 seconds
+Rank 8: Matrix-vector product took 0.0235967 seconds
+Rank 9: Matrix-vector product took 0.0194966 seconds
+Rank 10: Matrix-vector product took 0.0208725 seconds
+Rank 11: Matrix-vector product took 0.0215338 seconds
+Rank 12: Matrix-vector product took 0.0217853 seconds
+Rank 13: Matrix-vector product took 0.0240855 seconds
+Rank 14: Matrix-vector product took 0.0299829 seconds
+Rank 15: Matrix-vector product took 0.0223738 seconds
+Average time for Matrix-vector product is 0.0227534 seconds
+
+Rank 0: copyOwnerToAll took 0.0010577 seconds
+Rank 1: copyOwnerToAll took 0.0010577 seconds
+Rank 2: copyOwnerToAll took 0.0010577 seconds
+Rank 3: copyOwnerToAll took 0.0010577 seconds
+Rank 4: copyOwnerToAll took 0.0010577 seconds
+Rank 5: copyOwnerToAll took 0.0010577 seconds
+Rank 6: copyOwnerToAll took 0.0010577 seconds
+Rank 7: copyOwnerToAll took 0.0010577 seconds
+Rank 8: copyOwnerToAll took 0.0010577 seconds
+Rank 9: copyOwnerToAll took 0.0010577 seconds
+Rank 10: copyOwnerToAll took 0.0010577 seconds
+Rank 11: copyOwnerToAll took 0.0010577 seconds
+Rank 12: copyOwnerToAll took 0.0010577 seconds
+Rank 13: copyOwnerToAll took 0.0010577 seconds
+Rank 14: copyOwnerToAll took 0.0010577 seconds
+Rank 15: copyOwnerToAll took 0.0010577 seconds
+Average time for copyOwnertoAll is 0.00107637 seconds
+
+
+
+			Rank 0	Rank 1	Rank 2	Rank 3	Rank 4	Rank 5	Rank 6	Rank 7	Rank 8	Rank 9	Rank 10	Rank 11	Rank 12	Rank 13	Rank 14	Rank 15	
+Rank 0's ghost cells:	0	1307	101	214	936	603	48	0	498	0	265	9	69	0	657	281	
+Rank 1's ghost cells:	1370	0	64	558	52	38	0	0	351	0	995	602	0	0	203	340	
+Rank 2's ghost cells:	93	163	0	944	625	1633	118	59	0	0	70	70	111	0	29	27	
+Rank 3's ghost cells:	300	763	1003	0	85	145	0	14	4	0	671	54	60	0	60	197	
+Rank 4's ghost cells:	1004	52	633	49	0	1624	1332	379	51	0	0	0	409	165	126	64	
+Rank 5's ghost cells:	564	40	1593	107	1540	0	1637	1080	43	0	0	0	126	231	3243	689	
+Rank 6's ghost cells:	48	0	115	0	1317	1658	0	1080	0	0	0	0	188	1	0	0	
+Rank 7's ghost cells:	0	0	103	28	351	1016	1024	0	156	0	0	0	0	0	407	8	
+Rank 8's ghost cells:	837	434	0	9	21	28	0	152	0	543	206	44	312	676	3160	492	
+Rank 9's ghost cells:	0	0	0	0	0	0	0	0	531	0	121	0	140	466	953	220	
+Rank 10's ghost cells:	378	854	24	690	0	0	0	0	187	250	0	1951	64	559	11	13	
+Rank 11's ghost cells:	10	590	52	35	0	0	0	0	26	0	1775	0	0	0	0	0	
+Rank 12's ghost cells:	342	0	106	125	367	150	158	0	333	512	102	0	0	1236	1590	2239	
+Rank 13's ghost cells:	0	0	0	0	149	249	1	0	793	519	362	0	1131	0	1019	1720	
+Rank 14's ghost cells:	766	202	51	54	154	3741	0	365	3019	1089	18	0	1535	1555	0	1687	
+Rank 15's ghost cells:	364	329	38	94	87	769	0	2	534	259	11	0	1802	1782	1851	0	

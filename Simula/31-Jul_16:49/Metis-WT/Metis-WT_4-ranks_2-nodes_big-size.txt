@@ -1,0 +1,68 @@
+Number of nodes is: 2
+Number of cores/ranks per node is: 4
+METIS partitioner
+Cell on rank 0 before loadbalancing: 43993
+Cell on rank 1 before loadbalancing: 43983
+Cell on rank 2 before loadbalancing: 44848
+Cell on rank 3 before loadbalancing: 44872
+Cell on rank 4 before loadbalancing: 43983
+Cell on rank 5 before loadbalancing: 43984
+Cell on rank 6 before loadbalancing: 44872
+Cell on rank 7 before loadbalancing: 44872
+Edge-cut: -2147063684
+
+
+			Rank 0	Rank 1	Rank 2	Rank 3	Rank 4	Rank 5	Rank 6	Rank 7	
+From rank 0 to: 	0	1379	298	0	0	1932	0	989	
+From rank 1 to: 	1367	0	0	0	1779	1181	0	0	
+From rank 2 to: 	296	0	0	1265	0	805	1568	296	
+From rank 3 to: 	0	0	1258	0	0	0	1888	112	
+From rank 4 to: 	0	1751	0	0	0	1408	0	0	
+From rank 5 to: 	2046	1201	820	0	1451	0	0	313	
+From rank 6 to: 	0	0	1570	1898	0	0	0	887	
+From rank 7 to: 	983	0	304	116	0	290	905	0	
+
+After loadbalancing process 0 has 48591 cells.
+After loadbalancing process 1 has 48310 cells.
+After loadbalancing process 2 has 49078 cells.
+After loadbalancing process 3 has 48130 cells.
+After loadbalancing process 4 has 47142 cells.
+After loadbalancing process 5 has 49815 cells.
+After loadbalancing process 6 has 49227 cells.
+After loadbalancing process 7 has 47472 cells.
+
+
+=== rate=0, T=0, TIT=0, IT=0
+
+ Elapsed time: 0
+Rank 0: Matrix-vector product took 0.0403245 seconds
+Rank 1: Matrix-vector product took 0.0395528 seconds
+Rank 2: Matrix-vector product took 0.0395645 seconds
+Rank 3: Matrix-vector product took 0.0388121 seconds
+Rank 4: Matrix-vector product took 0.03875 seconds
+Rank 5: Matrix-vector product took 0.0401982 seconds
+Rank 6: Matrix-vector product took 0.0404177 seconds
+Rank 7: Matrix-vector product took 0.0392279 seconds
+Average time for Matrix-vector product is 0.0396059 seconds
+
+Rank 0: copyOwnerToAll took 0.0004372 seconds
+Rank 1: copyOwnerToAll took 0.0004372 seconds
+Rank 2: copyOwnerToAll took 0.0004372 seconds
+Rank 3: copyOwnerToAll took 0.0004372 seconds
+Rank 4: copyOwnerToAll took 0.0004372 seconds
+Rank 5: copyOwnerToAll took 0.0004372 seconds
+Rank 6: copyOwnerToAll took 0.0004372 seconds
+Rank 7: copyOwnerToAll took 0.0004372 seconds
+Average time for copyOwnertoAll is 0.000447254 seconds
+
+
+
+			Rank 0	Rank 1	Rank 2	Rank 3	Rank 4	Rank 5	Rank 6	Rank 7	
+Rank 0's ghost cells:	0	1379	298	0	0	1932	0	989	
+Rank 1's ghost cells:	1367	0	0	0	1779	1181	0	0	
+Rank 2's ghost cells:	296	0	0	1265	0	805	1568	296	
+Rank 3's ghost cells:	0	0	1258	0	0	0	1888	112	
+Rank 4's ghost cells:	0	1751	0	0	0	1408	0	0	
+Rank 5's ghost cells:	2046	1201	820	0	1451	0	0	313	
+Rank 6's ghost cells:	0	0	1570	1898	0	0	0	887	
+Rank 7's ghost cells:	983	0	304	116	0	292	905	0	

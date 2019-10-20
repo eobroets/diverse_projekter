@@ -1,0 +1,62 @@
+Number of nodes is: 2
+Number of cores/ranks per node is: 4
+Metis norne Node cell partitioner
+ Cell on rank 0 before loadbalancing: 555417
+Cell on rank 1 before loadbalancing: 566582
+Edge-cut: -2147181384
+
+
+			Rank 0	Rank 1	Rank 2	Rank 3	Rank 4	Rank 5	Rank 6	Rank 7	
+From rank 0 to: 	0	3066	0	1602	0	0	1447	2246	
+From rank 1 to: 	3080	0	0	1091	0	76	2393	3502	
+From rank 2 to: 	0	0	0	2809	4084	1690	0	0	
+From rank 3 to: 	1601	1069	2810	0	1152	1048	0	1837	
+From rank 4 to: 	0	0	4181	1086	0	2901	0	0	
+From rank 5 to: 	0	76	1678	1048	2929	0	0	2483	
+From rank 6 to: 	1447	2385	0	0	0	0	0	1922	
+From rank 7 to: 	2246	3539	0	1956	0	2484	1955	0	
+
+After loadbalancing process 0 has 148594 cells.
+After loadbalancing process 1 has 147618 cells.
+After loadbalancing process 2 has 146055 cells.
+After loadbalancing process 3 has 149753 cells.
+After loadbalancing process 4 has 149818 cells.
+After loadbalancing process 5 has 149872 cells.
+After loadbalancing process 6 has 147396 cells.
+After loadbalancing process 7 has 153812 cells.
+
+
+=== rate=0, T=0, TIT=0, IT=0
+
+ Elapsed time: 0
+Rank 0: Matrix-vector product took 0.1212 seconds
+Rank 1: Matrix-vector product took 0.120032 seconds
+Rank 2: Matrix-vector product took 0.118301 seconds
+Rank 3: Matrix-vector product took 0.122061 seconds
+Rank 4: Matrix-vector product took 0.12165 seconds
+Rank 5: Matrix-vector product took 0.121898 seconds
+Rank 6: Matrix-vector product took 0.118975 seconds
+Rank 7: Matrix-vector product took 0.124792 seconds
+Average time for Matrix-vector product is 0.121114 seconds
+
+Rank 0: copyOwnerToAll took 0.00081356 seconds
+Rank 1: copyOwnerToAll took 0.00081356 seconds
+Rank 2: copyOwnerToAll took 0.00081356 seconds
+Rank 3: copyOwnerToAll took 0.00081356 seconds
+Rank 4: copyOwnerToAll took 0.00081356 seconds
+Rank 5: copyOwnerToAll took 0.00081356 seconds
+Rank 6: copyOwnerToAll took 0.00081356 seconds
+Rank 7: copyOwnerToAll took 0.00081356 seconds
+Average time for copyOwnertoAll is 0.000828538 seconds
+
+
+
+			Rank 0	Rank 1	Rank 2	Rank 3	Rank 4	Rank 5	Rank 6	Rank 7	
+Rank 0's ghost cells:	0	3066	0	1602	0	0	1447	2246	
+Rank 1's ghost cells:	3080	0	0	1091	0	76	2393	3502	
+Rank 2's ghost cells:	0	0	0	2809	4084	1690	0	0	
+Rank 3's ghost cells:	1601	1069	2810	0	1152	1048	0	1837	
+Rank 4's ghost cells:	0	0	4181	1086	0	2901	0	0	
+Rank 5's ghost cells:	0	76	1678	1048	2929	0	0	2483	
+Rank 6's ghost cells:	1447	2385	0	0	0	0	0	1922	
+Rank 7's ghost cells:	2246	3539	0	1956	0	2484	1955	0	

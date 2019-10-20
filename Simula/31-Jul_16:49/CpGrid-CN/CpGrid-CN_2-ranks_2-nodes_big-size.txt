@@ -1,0 +1,47 @@
+Number of nodes is: 2
+Number of cores/ranks per node is: 2
+cpGrid partitioner
+
+
+			Rank 0	Rank 1	Rank 2	Rank 3	
+From rank 0 to: 	0	8687	170	2003	
+From rank 1 to: 	8294	0	3834	8538	
+From rank 2 to: 	214	3411	0	3036	
+From rank 3 to: 	1845	9433	2746	0	
+
+Cell on rank 0 before loadbalancing: 89420
+Cell on rank 1 before loadbalancing: 90388
+Cell on rank 2 before loadbalancing: 93233
+Cell on rank 3 before loadbalancing: 82366
+
+Edge-cut for node partition: 13711
+
+
+After loadbalancing process 0 has 99896 cells.
+After loadbalancing process 1 has 96392 cells.
+After loadbalancing process 2 has 100280 cells.
+After loadbalancing process 3 has 111056 cells.
+
+
+=== rate=0, T=0, TIT=0, IT=0
+
+ Elapsed time: 0
+Rank 0: Matrix-vector product took 0.0816571 seconds
+Rank 1: Matrix-vector product took 0.0784247 seconds
+Rank 2: Matrix-vector product took 0.0827618 seconds
+Rank 3: Matrix-vector product took 0.0914122 seconds
+Average time for Matrix-vector product is 0.083564 seconds
+
+Rank 0: copyOwnerToAll took 0.00132113 seconds
+Rank 1: copyOwnerToAll took 0.00132113 seconds
+Rank 2: copyOwnerToAll took 0.00132113 seconds
+Rank 3: copyOwnerToAll took 0.00132113 seconds
+Average time for copyOwnertoAll is 0.0013362 seconds
+
+
+
+			Rank 0	Rank 1	Rank 2	Rank 3	
+Rank 0's ghost cells:	0	3038	214	3411	
+Rank 1's ghost cells:	2748	0	1845	9433	
+Rank 2's ghost cells:	170	2003	0	8687	
+Rank 3's ghost cells:	3834	8540	8294	0	

@@ -1,0 +1,44 @@
+Number of nodes is: 2
+Number of cores/ranks per node is: 2
+METIS partitioner
+Cell on rank 0 before loadbalancing: 87967
+Cell on rank 1 before loadbalancing: 89744
+Cell on rank 2 before loadbalancing: 87974
+Cell on rank 3 before loadbalancing: 89722
+Edge-cut: 272079
+
+
+			Rank 0	Rank 1	Rank 2	Rank 3	
+From rank 0 to: 	0	2297	4593	0	
+From rank 1 to: 	2224	0	1393	2233	
+From rank 2 to: 	4299	1487	0	0	
+From rank 3 to: 	0	2240	0	0	
+
+After loadbalancing process 0 has 94857 cells.
+After loadbalancing process 1 has 95594 cells.
+After loadbalancing process 2 has 93760 cells.
+After loadbalancing process 3 has 91962 cells.
+
+
+=== rate=0, T=0, TIT=0, IT=0
+
+ Elapsed time: 0
+Rank 0: Matrix-vector product took 0.0772204 seconds
+Rank 1: Matrix-vector product took 0.0794308 seconds
+Rank 2: Matrix-vector product took 0.0767698 seconds
+Rank 3: Matrix-vector product took 0.0768817 seconds
+Average time for Matrix-vector product is 0.0775757 seconds
+
+Rank 0: copyOwnerToAll took 0.000452989 seconds
+Rank 1: copyOwnerToAll took 0.000452989 seconds
+Rank 2: copyOwnerToAll took 0.000452989 seconds
+Rank 3: copyOwnerToAll took 0.000452989 seconds
+Average time for copyOwnertoAll is 0.000502465 seconds
+
+
+
+			Rank 0	Rank 1	Rank 2	Rank 3	
+Rank 0's ghost cells:	0	2297	4593	0	
+Rank 1's ghost cells:	2224	0	1393	2233	
+Rank 2's ghost cells:	4299	1487	0	0	
+Rank 3's ghost cells:	0	2240	0	0	

@@ -1,0 +1,104 @@
+Number of nodes is: 4
+Number of cores/ranks per node is: 4
+Metis norne Node cell partitioner
+ Cell on rank 0 before loadbalancing: 278767
+Cell on rank 1 before loadbalancing: 280353
+Cell on rank 2 before loadbalancing: 283318
+Cell on rank 3 before loadbalancing: 279561
+Edge-cut: 637931113
+
+
+			Rank 0	Rank 1	Rank 2	Rank 3	Rank 4	Rank 5	Rank 6	Rank 7	Rank 8	Rank 9	Rank 10	Rank 11	Rank 12	Rank 13	Rank 14	Rank 15	
+From rank 0 to: 	0	1554	578	0	0	0	124	2094	0	0	0	0	0	0	0	0	
+From rank 1 to: 	1604	0	2640	0	0	0	0	0	0	0	0	0	0	0	813	801	
+From rank 2 to: 	568	2671	0	1395	130	0	0	2206	0	0	0	0	0	0	0	1526	
+From rank 3 to: 	0	0	1374	0	1748	0	0	23	0	0	0	1659	0	0	0	1545	
+From rank 4 to: 	0	0	132	1759	0	1969	1292	886	0	1851	0	0	773	0	0	0	
+From rank 5 to: 	0	0	0	0	1957	0	0	0	0	0	0	0	1362	945	0	0	
+From rank 6 to: 	67	0	0	0	1292	0	0	2822	0	0	0	0	0	0	0	0	
+From rank 7 to: 	2068	0	2236	23	916	0	2792	0	0	0	0	0	0	0	0	0	
+From rank 8 to: 	0	0	0	0	0	0	0	0	0	2286	2228	0	0	0	1119	306	
+From rank 9 to: 	0	0	0	0	1849	0	0	0	2249	0	1348	0	1254	0	620	0	
+From rank 10 to: 	0	0	0	0	0	0	0	0	2262	1315	0	2748	0	0	781	1902	
+From rank 11 to: 	0	0	0	1659	0	0	0	0	0	0	2675	0	0	0	1278	553	
+From rank 12 to: 	0	0	0	0	774	1354	0	0	0	1275	0	0	0	2762	1576	0	
+From rank 13 to: 	0	0	0	0	0	957	0	0	0	0	0	0	2715	0	839	0	
+From rank 14 to: 	0	814	0	0	0	0	0	0	1140	621	745	1278	1555	838	0	1538	
+From rank 15 to: 	0	776	1525	1521	0	0	0	0	307	0	1865	569	0	0	1537	0	
+
+After loadbalancing process 0 has 74033 cells.
+After loadbalancing process 1 has 75560 cells.
+After loadbalancing process 2 has 78183 cells.
+After loadbalancing process 3 has 76044 cells.
+After loadbalancing process 4 has 78762 cells.
+After loadbalancing process 5 has 74330 cells.
+After loadbalancing process 6 has 74277 cells.
+After loadbalancing process 7 has 78126 cells.
+After loadbalancing process 8 has 76775 cells.
+After loadbalancing process 9 has 78132 cells.
+After loadbalancing process 10 has 79851 cells.
+After loadbalancing process 11 has 76992 cells.
+After loadbalancing process 12 has 77635 cells.
+After loadbalancing process 13 has 74394 cells.
+After loadbalancing process 14 has 78424 cells.
+After loadbalancing process 15 has 77989 cells.
+
+
+=== rate=0, T=0, TIT=0, IT=0
+
+ Elapsed time: 0
+Rank 0: Matrix-vector product took 0.0599715 seconds
+Rank 1: Matrix-vector product took 0.0613414 seconds
+Rank 2: Matrix-vector product took 0.06354 seconds
+Rank 3: Matrix-vector product took 0.061369 seconds
+Rank 4: Matrix-vector product took 0.063373 seconds
+Rank 5: Matrix-vector product took 0.0603303 seconds
+Rank 6: Matrix-vector product took 0.0601618 seconds
+Rank 7: Matrix-vector product took 0.0630753 seconds
+Rank 8: Matrix-vector product took 0.0626783 seconds
+Rank 9: Matrix-vector product took 0.063402 seconds
+Rank 10: Matrix-vector product took 0.0644965 seconds
+Rank 11: Matrix-vector product took 0.0625159 seconds
+Rank 12: Matrix-vector product took 0.0626103 seconds
+Rank 13: Matrix-vector product took 0.0602785 seconds
+Rank 14: Matrix-vector product took 0.0629082 seconds
+Rank 15: Matrix-vector product took 0.063098 seconds
+Average time for Matrix-vector product is 0.0621969 seconds
+
+Rank 0: copyOwnerToAll took 0.000663802 seconds
+Rank 1: copyOwnerToAll took 0.000663802 seconds
+Rank 2: copyOwnerToAll took 0.000663802 seconds
+Rank 3: copyOwnerToAll took 0.000663802 seconds
+Rank 4: copyOwnerToAll took 0.000663802 seconds
+Rank 5: copyOwnerToAll took 0.000663802 seconds
+Rank 6: copyOwnerToAll took 0.000663802 seconds
+Rank 7: copyOwnerToAll took 0.000663802 seconds
+Rank 8: copyOwnerToAll took 0.000663802 seconds
+Rank 9: copyOwnerToAll took 0.000663802 seconds
+Rank 10: copyOwnerToAll took 0.000663802 seconds
+Rank 11: copyOwnerToAll took 0.000663802 seconds
+Rank 12: copyOwnerToAll took 0.000663802 seconds
+Rank 13: copyOwnerToAll took 0.000663802 seconds
+Rank 14: copyOwnerToAll took 0.000663802 seconds
+Rank 15: copyOwnerToAll took 0.000663802 seconds
+Average time for copyOwnertoAll is 0.00071231 seconds
+
+
+
+			Rank 0	Rank 1	Rank 2	Rank 3	Rank 4	Rank 5	Rank 6	Rank 7	Rank 8	Rank 9	Rank 10	Rank 11	Rank 12	Rank 13	Rank 14	Rank 15	
+Rank 0's ghost cells:	0	1554	578	0	0	0	124	2094	0	0	0	0	0	0	0	0	
+Rank 1's ghost cells:	1604	0	2640	0	0	0	0	0	0	0	0	0	0	0	813	801	
+Rank 2's ghost cells:	568	2671	0	1395	130	0	0	2206	0	0	0	0	0	0	0	1526	
+Rank 3's ghost cells:	0	0	1374	0	1748	0	0	23	0	0	0	1659	0	0	0	1545	
+Rank 4's ghost cells:	0	0	132	1759	0	1969	1292	886	0	1851	0	0	773	0	0	0	
+Rank 5's ghost cells:	0	0	0	0	1957	0	0	0	0	0	0	0	1362	945	0	0	
+Rank 6's ghost cells:	67	0	0	0	1292	0	0	2822	0	0	0	0	0	0	0	0	
+Rank 7's ghost cells:	2068	0	2236	23	916	0	2792	0	0	0	0	0	0	0	0	0	
+Rank 8's ghost cells:	0	0	0	0	0	0	0	0	0	2286	2228	0	0	0	1119	306	
+Rank 9's ghost cells:	0	0	0	0	1849	0	0	0	2249	0	1348	0	1254	0	620	0	
+Rank 10's ghost cells:	0	0	0	0	0	0	0	0	2262	1315	0	2748	0	0	781	1902	
+Rank 11's ghost cells:	0	0	0	1659	0	0	0	0	0	0	2675	0	0	0	1278	553	
+Rank 12's ghost cells:	0	0	0	0	774	1354	0	0	0	1275	0	0	0	2762	1576	0	
+Rank 13's ghost cells:	0	0	0	0	0	957	0	0	0	0	0	0	2715	0	839	0	
+Rank 14's ghost cells:	0	814	0	0	0	0	0	0	1140	621	745	1278	1555	838	0	1538	
+Rank 15's ghost cells:	0	776	1525	1521	0	0	0	0	307	0	1865	569	0	0	1537	0	

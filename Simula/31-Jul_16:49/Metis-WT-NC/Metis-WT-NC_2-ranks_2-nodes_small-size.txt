@@ -1,0 +1,42 @@
+Number of nodes is: 2
+Number of cores/ranks per node is: 2
+Metis norne Node cell partitioner
+ Cell on rank 0 before loadbalancing: 22203
+Cell on rank 1 before loadbalancing: 22228
+Edge-cut: 13567
+
+
+			Rank 0	Rank 1	Rank 2	Rank 3	
+From rank 0 to: 	0	504	0	0	
+From rank 1 to: 	503	0	291	255	
+From rank 2 to: 	0	286	0	68	
+From rank 3 to: 	0	253	86	0	
+
+After loadbalancing process 0 has 11606 cells.
+After loadbalancing process 1 has 12150 cells.
+After loadbalancing process 2 has 11481 cells.
+After loadbalancing process 3 has 11440 cells.
+
+
+=== rate=0, T=0, TIT=0, IT=0
+
+ Elapsed time: 0
+Rank 0: Matrix-vector product took 0.00950102 seconds
+Rank 1: Matrix-vector product took 0.0101849 seconds
+Rank 2: Matrix-vector product took 0.00932027 seconds
+Rank 3: Matrix-vector product took 0.00937739 seconds
+Average time for Matrix-vector product is 0.00959588 seconds
+
+Rank 0: copyOwnerToAll took 0.00010125 seconds
+Rank 1: copyOwnerToAll took 0.00010125 seconds
+Rank 2: copyOwnerToAll took 0.00010125 seconds
+Rank 3: copyOwnerToAll took 0.00010125 seconds
+Average time for copyOwnertoAll is 0.000112456 seconds
+
+
+
+			Rank 0	Rank 1	Rank 2	Rank 3	
+Rank 0's ghost cells:	0	504	0	0	
+Rank 1's ghost cells:	503	0	291	255	
+Rank 2's ghost cells:	0	286	0	68	
+Rank 3's ghost cells:	0	253	86	0	

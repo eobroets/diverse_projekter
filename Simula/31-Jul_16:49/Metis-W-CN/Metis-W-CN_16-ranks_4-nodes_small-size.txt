@@ -1,0 +1,407 @@
+Number of nodes is: 4
+Number of cores/ranks per node is: 16
+Metis Uniform CellNode
+Cell on rank 0 before loadbalancing: 687
+Cell on rank 1 before loadbalancing: 701
+Cell on rank 2 before loadbalancing: 701
+Cell on rank 3 before loadbalancing: 701
+Cell on rank 4 before loadbalancing: 701
+Cell on rank 5 before loadbalancing: 701
+Cell on rank 6 before loadbalancing: 701
+Cell on rank 7 before loadbalancing: 701
+Cell on rank 8 before loadbalancing: 701
+Cell on rank 9 before loadbalancing: 693
+Cell on rank 10 before loadbalancing: 697
+Cell on rank 11 before loadbalancing: 701
+Cell on rank 12 before loadbalancing: 701
+Cell on rank 13 before loadbalancing: 700
+Cell on rank 14 before loadbalancing: 701
+Cell on rank 15 before loadbalancing: 701
+Cell on rank 16 before loadbalancing: 692
+Cell on rank 17 before loadbalancing: 701
+Cell on rank 18 before loadbalancing: 699
+Cell on rank 19 before loadbalancing: 687
+Cell on rank 20 before loadbalancing: 688
+Cell on rank 21 before loadbalancing: 687
+Cell on rank 22 before loadbalancing: 687
+Cell on rank 23 before loadbalancing: 687
+Cell on rank 24 before loadbalancing: 687
+Cell on rank 25 before loadbalancing: 687
+Cell on rank 26 before loadbalancing: 701
+Cell on rank 27 before loadbalancing: 691
+Cell on rank 28 before loadbalancing: 700
+Cell on rank 29 before loadbalancing: 700
+Cell on rank 30 before loadbalancing: 697
+Cell on rank 31 before loadbalancing: 687
+Cell on rank 32 before loadbalancing: 701
+Cell on rank 33 before loadbalancing: 698
+Cell on rank 34 before loadbalancing: 699
+Cell on rank 35 before loadbalancing: 701
+Cell on rank 36 before loadbalancing: 701
+Cell on rank 37 before loadbalancing: 699
+Cell on rank 38 before loadbalancing: 691
+Cell on rank 39 before loadbalancing: 692
+Cell on rank 40 before loadbalancing: 700
+Cell on rank 41 before loadbalancing: 687
+Cell on rank 42 before loadbalancing: 700
+Cell on rank 43 before loadbalancing: 701
+Cell on rank 44 before loadbalancing: 690
+Cell on rank 45 before loadbalancing: 689
+Cell on rank 46 before loadbalancing: 687
+Cell on rank 47 before loadbalancing: 689
+Cell on rank 48 before loadbalancing: 700
+Cell on rank 49 before loadbalancing: 687
+Cell on rank 50 before loadbalancing: 687
+Cell on rank 51 before loadbalancing: 694
+Cell on rank 52 before loadbalancing: 689
+Cell on rank 53 before loadbalancing: 693
+Cell on rank 54 before loadbalancing: 693
+Cell on rank 55 before loadbalancing: 687
+Cell on rank 56 before loadbalancing: 693
+Cell on rank 57 before loadbalancing: 687
+Cell on rank 58 before loadbalancing: 687
+Cell on rank 59 before loadbalancing: 687
+Cell on rank 60 before loadbalancing: 687
+Cell on rank 61 before loadbalancing: 692
+Cell on rank 62 before loadbalancing: 687
+Cell on rank 63 before loadbalancing: 689
+Edge-cut: 14043
+
+
+			Rank 0	Rank 1	Rank 2	Rank 3	Rank 4	Rank 5	Rank 6	Rank 7	Rank 8	Rank 9	Rank 10	Rank 11	Rank 12	Rank 13	Rank 14	Rank 15	Rank 16	Rank 17	Rank 18	Rank 19	Rank 20	Rank 21	Rank 22	Rank 23	Rank 24	Rank 25	Rank 26	Rank 27	Rank 28	Rank 29	Rank 30	Rank 31	Rank 32	Rank 33	Rank 34	Rank 35	Rank 36	Rank 37	Rank 38	Rank 39	Rank 40	Rank 41	Rank 42	Rank 43	Rank 44	Rank 45	Rank 46	Rank 47	Rank 48	Rank 49	Rank 50	Rank 51	Rank 52	Rank 53	Rank 54	Rank 55	Rank 56	Rank 57	Rank 58	Rank 59	Rank 60	Rank 61	Rank 62	Rank 63	
+From rank 0 to: 	0	32	36	61	45	0	37	45	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	59	24	0	0	0	1	0	0	0	0	0	0	0	0	0	0	
+From rank 1 to: 	32	0	40	38	33	73	51	0	0	0	0	0	0	0	0	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+From rank 2 to: 	35	46	0	73	0	0	52	0	0	0	0	0	0	0	0	0	26	0	0	0	0	0	0	0	4	0	6	11	4	18	0	27	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	63	18	0	0	22	0	0	0	0	0	0	0	0	0	0	0	
+From rank 3 to: 	56	38	76	0	32	0	0	0	0	0	0	0	0	0	0	36	0	0	0	0	0	0	0	0	4	0	6	22	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+From rank 4 to: 	43	36	0	31	0	102	2	73	0	0	0	0	0	35	15	55	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+From rank 5 to: 	0	67	0	0	115	0	26	26	0	0	0	0	12	77	76	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+From rank 6 to: 	33	49	50	0	2	26	0	84	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	6	0	15	35	41	0	0	0	0	0	0	0	0	0	0	
+From rank 7 to: 	37	0	0	0	82	27	83	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	16	0	17	0	0	0	0	0	0	0	0	0	0	
+From rank 8 to: 	0	0	0	0	0	0	0	0	0	48	0	68	0	23	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+From rank 9 to: 	0	0	0	0	0	0	0	0	48	0	0	60	9	23	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+From rank 10 to: 	0	0	0	0	0	0	0	0	0	0	0	45	36	26	2	75	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+From rank 11 to: 	0	0	0	0	0	0	0	0	68	71	35	0	118	19	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+From rank 12 to: 	0	0	0	0	0	12	0	0	0	6	35	111	0	78	92	47	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+From rank 13 to: 	0	0	0	0	35	64	0	0	23	21	24	16	75	0	46	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+From rank 14 to: 	0	0	0	0	15	80	0	0	0	0	2	0	86	45	0	86	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+From rank 15 to: 	0	16	0	36	48	12	0	0	0	0	74	0	52	4	89	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+From rank 16 to: 	0	0	27	0	0	0	0	0	0	0	0	0	0	0	0	0	0	136	0	0	0	0	0	0	0	0	78	5	8	109	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+From rank 17 to: 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	135	0	95	26	12	0	0	0	0	0	30	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+From rank 18 to: 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	101	0	101	14	0	56	30	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+From rank 19 to: 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	30	100	0	0	0	81	2	0	0	79	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+From rank 20 to: 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	12	0	0	78	14	58	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+From rank 21 to: 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	63	0	10	108	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+From rank 22 to: 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	54	75	16	14	0	129	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+From rank 23 to: 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	30	2	55	105	127	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+From rank 24 to: 	0	0	9	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	97	0	60	57	0	81	58	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+From rank 25 to: 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	97	0	0	75	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+From rank 26 to: 	0	0	6	6	0	0	0	0	0	0	0	0	0	0	0	0	75	30	0	79	0	0	0	0	0	0	0	41	23	31	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+From rank 27 to: 	0	0	13	32	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	58	72	45	0	67	26	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+From rank 28 to: 	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	57	0	23	63	0	104	26	69	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+From rank 29 to: 	0	0	21	0	0	0	0	0	0	0	0	0	0	0	0	0	111	0	0	0	0	0	0	0	0	0	38	24	99	0	0	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+From rank 30 to: 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	82	0	0	0	24	0	0	70	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	75	0	0	0	0	0	0	0	0	0	0	0	13	0	
+From rank 31 to: 	0	0	32	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	59	0	0	0	68	16	69	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	23	120	19	0	0	0	0	0	0	0	0	0	0	0	0	0	
+From rank 32 to: 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	87	52	72	49	90	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+From rank 33 to: 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	104	0	85	32	0	0	0	0	0	15	33	42	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+From rank 34 to: 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	52	85	0	54	66	27	0	0	0	0	77	77	0	0	69	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+From rank 35 to: 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	74	32	59	0	51	0	0	0	0	0	72	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+From rank 36 to: 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	48	0	62	51	0	49	80	36	0	0	0	0	0	0	27	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+From rank 37 to: 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	90	0	33	0	50	0	7	82	0	0	0	46	0	0	36	4	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	
+From rank 38 to: 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	80	7	0	92	0	0	0	0	0	58	64	20	0	0	0	0	0	0	0	0	0	0	54	35	0	0	0	0	
+From rank 39 to: 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	36	89	92	0	0	0	0	0	48	0	5	0	0	0	0	0	0	0	0	0	0	24	0	66	0	0	0	0	
+From rank 40 to: 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	30	0	57	11	4	1	4	0	0	0	0	0	0	0	0	68	0	0	0	0	0	0	0	
+From rank 41 to: 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	0	0	0	0	30	0	16	32	0	0	4	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+From rank 42 to: 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	35	69	71	0	0	0	0	0	17	0	30	0	0	30	23	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+From rank 43 to: 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	46	72	0	0	47	0	0	57	35	30	0	0	0	57	28	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+From rank 44 to: 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	53	14	0	0	0	0	54	56	30	0	0	0	0	0	0	0	0	33	93	0	49	0	0	52	0	
+From rank 45 to: 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	55	0	3	0	0	0	55	0	49	89	0	0	0	0	0	0	0	0	1	20	27	42	0	0	31	72	
+From rank 46 to: 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	69	0	27	37	60	5	1	4	30	57	56	48	0	128	0	0	0	0	0	0	0	0	0	24	0	1	0	0	0	0	
+From rank 47 to: 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	12	0	0	6	20	0	4	11	29	32	29	96	131	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+From rank 48 to: 	60	0	68	0	0	0	6	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	68	11	56	31	83	25	6	0	0	0	0	0	0	2	0	
+From rank 49 to: 	34	0	18	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	129	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	74	0	71	65	2	29	1	0	0	0	0	0	0	25	1	0	
+From rank 50 to: 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	77	19	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	72	0	41	0	4	15	31	0	0	0	0	0	87	28	0	
+From rank 51 to: 	0	0	0	0	0	0	15	17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	48	69	45	0	83	35	2	17	0	0	0	0	0	33	18	8	
+From rank 52 to: 	0	0	22	0	0	0	40	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	33	2	0	85	0	78	26	36	43	0	0	0	31	16	45	16	
+From rank 53 to: 	3	0	0	0	0	0	41	15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	80	19	4	40	84	0	97	70	0	0	0	0	0	0	8	0	
+From rank 54 to: 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	28	1	15	3	24	111	0	79	22	42	0	0	10	21	65	0	
+From rank 55 to: 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	33	20	37	68	79	0	0	45	0	0	18	56	22	20	
+From rank 56 to: 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	65	0	0	0	30	2	0	0	0	0	0	0	45	0	20	0	0	21	0	2	4	36	23	1	
+From rank 57 to: 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	24	0	0	0	0	92	20	22	0	0	0	0	0	0	0	41	45	18	0	8	79	44	7	50	0	
+From rank 58 to: 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	54	0	0	0	0	0	0	24	0	0	0	0	0	0	0	0	0	0	0	8	0	69	103	0	4	55	
+From rank 59 to: 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	39	65	0	0	0	0	47	42	1	0	0	0	0	0	0	0	0	0	10	85	70	0	38	0	0	0	
+From rank 60 to: 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	35	0	11	19	14	49	101	38	0	117	102	48	
+From rank 61 to: 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	25	87	34	16	0	26	54	39	10	0	0	117	0	38	58	
+From rank 62 to: 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	13	0	0	0	0	0	0	0	0	0	0	0	0	0	52	36	0	0	4	1	29	26	42	9	70	20	25	48	4	0	100	44	0	27	
+From rank 63 to: 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	72	0	0	0	0	0	8	19	0	0	18	1	0	50	0	47	55	28	0	
+
+Edge-cut for node partition: 1454
+
+
+After loadbalancing process 0 has 1142 cells.
+After loadbalancing process 1 has 1157 cells.
+After loadbalancing process 2 has 1071 cells.
+After loadbalancing process 3 has 1084 cells.
+After loadbalancing process 4 has 1162 cells.
+After loadbalancing process 5 has 1154 cells.
+After loadbalancing process 6 has 1114 cells.
+After loadbalancing process 7 has 1091 cells.
+After loadbalancing process 8 has 942 cells.
+After loadbalancing process 9 has 1149 cells.
+After loadbalancing process 10 has 1004 cells.
+After loadbalancing process 11 has 1084 cells.
+After loadbalancing process 12 has 1221 cells.
+After loadbalancing process 13 has 1196 cells.
+After loadbalancing process 14 has 1237 cells.
+After loadbalancing process 15 has 987 cells.
+After loadbalancing process 16 has 1051 cells.
+After loadbalancing process 17 has 1011 cells.
+After loadbalancing process 18 has 1214 cells.
+After loadbalancing process 19 has 989 cells.
+After loadbalancing process 20 has 1054 cells.
+After loadbalancing process 21 has 1059 cells.
+After loadbalancing process 22 has 1101 cells.
+After loadbalancing process 23 has 1052 cells.
+After loadbalancing process 24 has 875 cells.
+After loadbalancing process 25 has 796 cells.
+After loadbalancing process 26 has 975 cells.
+After loadbalancing process 27 has 1073 cells.
+After loadbalancing process 28 has 1124 cells.
+After loadbalancing process 29 has 1133 cells.
+After loadbalancing process 30 has 1234 cells.
+After loadbalancing process 31 has 1065 cells.
+After loadbalancing process 32 has 1027 cells.
+After loadbalancing process 33 has 984 cells.
+After loadbalancing process 34 has 1106 cells.
+After loadbalancing process 35 has 971 cells.
+After loadbalancing process 36 has 1093 cells.
+After loadbalancing process 37 has 1112 cells.
+After loadbalancing process 38 has 1051 cells.
+After loadbalancing process 39 has 971 cells.
+After loadbalancing process 40 has 840 cells.
+After loadbalancing process 41 has 833 cells.
+After loadbalancing process 42 has 881 cells.
+After loadbalancing process 43 has 1012 cells.
+After loadbalancing process 44 has 1082 cells.
+After loadbalancing process 45 has 1007 cells.
+After loadbalancing process 46 has 1015 cells.
+After loadbalancing process 47 has 1032 cells.
+After loadbalancing process 48 has 1055 cells.
+After loadbalancing process 49 has 999 cells.
+After loadbalancing process 50 has 1001 cells.
+After loadbalancing process 51 has 979 cells.
+After loadbalancing process 52 has 862 cells.
+After loadbalancing process 53 has 868 cells.
+After loadbalancing process 54 has 975 cells.
+After loadbalancing process 55 has 1006 cells.
+After loadbalancing process 56 has 1055 cells.
+After loadbalancing process 57 has 859 cells.
+After loadbalancing process 58 has 992 cells.
+After loadbalancing process 59 has 1009 cells.
+After loadbalancing process 60 has 1058 cells.
+After loadbalancing process 61 has 1009 cells.
+After loadbalancing process 62 has 973 cells.
+After loadbalancing process 63 has 1093 cells.
+
+
+=== rate=0, T=0, TIT=0, IT=0
+
+ Elapsed time: 0
+Rank 0: Matrix-vector product took 0.000920699 seconds
+Rank 1: Matrix-vector product took 0.000876849 seconds
+Rank 2: Matrix-vector product took 0.000892199 seconds
+Rank 3: Matrix-vector product took 0.00112344 seconds
+Rank 4: Matrix-vector product took 0.00117163 seconds
+Rank 5: Matrix-vector product took 0.00117647 seconds
+Rank 6: Matrix-vector product took 0.000915339 seconds
+Rank 7: Matrix-vector product took 0.000856319 seconds
+Rank 8: Matrix-vector product took 0.000707369 seconds
+Rank 9: Matrix-vector product took 0.00117722 seconds
+Rank 10: Matrix-vector product took 0.000891769 seconds
+Rank 11: Matrix-vector product took 0.000819579 seconds
+Rank 12: Matrix-vector product took 0.000929329 seconds
+Rank 13: Matrix-vector product took 0.000933409 seconds
+Rank 14: Matrix-vector product took 0.00122035 seconds
+Rank 15: Matrix-vector product took 0.0010415 seconds
+Rank 16: Matrix-vector product took 0.000800149 seconds
+Rank 17: Matrix-vector product took 0.000753039 seconds
+Rank 18: Matrix-vector product took 0.000941519 seconds
+Rank 19: Matrix-vector product took 0.000759329 seconds
+Rank 20: Matrix-vector product took 0.000822649 seconds
+Rank 21: Matrix-vector product took 0.000864669 seconds
+Rank 22: Matrix-vector product took 0.000877119 seconds
+Rank 23: Matrix-vector product took 0.000806629 seconds
+Rank 24: Matrix-vector product took 0.000648929 seconds
+Rank 25: Matrix-vector product took 0.000581339 seconds
+Rank 26: Matrix-vector product took 0.000743299 seconds
+Rank 27: Matrix-vector product took 0.000836729 seconds
+Rank 28: Matrix-vector product took 0.000882179 seconds
+Rank 29: Matrix-vector product took 0.000881689 seconds
+Rank 30: Matrix-vector product took 0.000939569 seconds
+Rank 31: Matrix-vector product took 0.000825619 seconds
+Rank 32: Matrix-vector product took 0.00081453 seconds
+Rank 33: Matrix-vector product took 0.00076755 seconds
+Rank 34: Matrix-vector product took 0.00084439 seconds
+Rank 35: Matrix-vector product took 0.00077851 seconds
+Rank 36: Matrix-vector product took 0.00083216 seconds
+Rank 37: Matrix-vector product took 0.00083836 seconds
+Rank 38: Matrix-vector product took 0.00081746 seconds
+Rank 39: Matrix-vector product took 0.00072178 seconds
+Rank 40: Matrix-vector product took 0.00062234 seconds
+Rank 41: Matrix-vector product took 0.00059302 seconds
+Rank 42: Matrix-vector product took 0.0006702 seconds
+Rank 43: Matrix-vector product took 0.00076159 seconds
+Rank 44: Matrix-vector product took 0.00086521 seconds
+Rank 45: Matrix-vector product took 0.00077235 seconds
+Rank 46: Matrix-vector product took 0.00080247 seconds
+Rank 47: Matrix-vector product took 0.00076227 seconds
+Rank 48: Matrix-vector product took 0.000856903 seconds
+Rank 49: Matrix-vector product took 0.000758142 seconds
+Rank 50: Matrix-vector product took 0.000779862 seconds
+Rank 51: Matrix-vector product took 0.000770332 seconds
+Rank 52: Matrix-vector product took 0.000608642 seconds
+Rank 53: Matrix-vector product took 0.000677652 seconds
+Rank 54: Matrix-vector product took 0.000771732 seconds
+Rank 55: Matrix-vector product took 0.000758242 seconds
+Rank 56: Matrix-vector product took 0.000840913 seconds
+Rank 57: Matrix-vector product took 0.000657852 seconds
+Rank 58: Matrix-vector product took 0.000793712 seconds
+Rank 59: Matrix-vector product took 0.000804282 seconds
+Rank 60: Matrix-vector product took 0.000821142 seconds
+Rank 61: Matrix-vector product took 0.000808092 seconds
+Rank 62: Matrix-vector product took 0.000774632 seconds
+Rank 63: Matrix-vector product took 0.000875673 seconds
+Average time for Matrix-vector product is 0.000831874 seconds
+
+Rank 0: copyOwnerToAll took 0.00028037 seconds
+Rank 1: copyOwnerToAll took 0.00028037 seconds
+Rank 2: copyOwnerToAll took 0.00028037 seconds
+Rank 3: copyOwnerToAll took 0.00028037 seconds
+Rank 4: copyOwnerToAll took 0.00028037 seconds
+Rank 5: copyOwnerToAll took 0.00028037 seconds
+Rank 6: copyOwnerToAll took 0.00028037 seconds
+Rank 7: copyOwnerToAll took 0.00028037 seconds
+Rank 8: copyOwnerToAll took 0.00028037 seconds
+Rank 9: copyOwnerToAll took 0.00028037 seconds
+Rank 10: copyOwnerToAll took 0.00028037 seconds
+Rank 11: copyOwnerToAll took 0.00028037 seconds
+Rank 12: copyOwnerToAll took 0.00028037 seconds
+Rank 13: copyOwnerToAll took 0.00028037 seconds
+Rank 14: copyOwnerToAll took 0.00028037 seconds
+Rank 15: copyOwnerToAll took 0.00028037 seconds
+Rank 16: copyOwnerToAll took 0.00028037 seconds
+Rank 17: copyOwnerToAll took 0.00028037 seconds
+Rank 18: copyOwnerToAll took 0.00028037 seconds
+Rank 19: copyOwnerToAll took 0.00028037 seconds
+Rank 20: copyOwnerToAll took 0.00028037 seconds
+Rank 21: copyOwnerToAll took 0.00028037 seconds
+Rank 22: copyOwnerToAll took 0.00028037 seconds
+Rank 23: copyOwnerToAll took 0.00028037 seconds
+Rank 24: copyOwnerToAll took 0.00028037 seconds
+Rank 25: copyOwnerToAll took 0.00028037 seconds
+Rank 26: copyOwnerToAll took 0.00028037 seconds
+Rank 27: copyOwnerToAll took 0.00028037 seconds
+Rank 28: copyOwnerToAll took 0.00028037 seconds
+Rank 29: copyOwnerToAll took 0.00028037 seconds
+Rank 30: copyOwnerToAll took 0.00028037 seconds
+Rank 31: copyOwnerToAll took 0.00028037 seconds
+Rank 32: copyOwnerToAll took 0.00028037 seconds
+Rank 33: copyOwnerToAll took 0.00028037 seconds
+Rank 34: copyOwnerToAll took 0.00028037 seconds
+Rank 35: copyOwnerToAll took 0.00028037 seconds
+Rank 36: copyOwnerToAll took 0.00028037 seconds
+Rank 37: copyOwnerToAll took 0.00028037 seconds
+Rank 38: copyOwnerToAll took 0.00028037 seconds
+Rank 39: copyOwnerToAll took 0.00028037 seconds
+Rank 40: copyOwnerToAll took 0.00028037 seconds
+Rank 41: copyOwnerToAll took 0.00028037 seconds
+Rank 42: copyOwnerToAll took 0.00028037 seconds
+Rank 43: copyOwnerToAll took 0.00028037 seconds
+Rank 44: copyOwnerToAll took 0.00028037 seconds
+Rank 45: copyOwnerToAll took 0.00028037 seconds
+Rank 46: copyOwnerToAll took 0.00028037 seconds
+Rank 47: copyOwnerToAll took 0.00028037 seconds
+Rank 48: copyOwnerToAll took 0.00028037 seconds
+Rank 49: copyOwnerToAll took 0.00028037 seconds
+Rank 50: copyOwnerToAll took 0.00028037 seconds
+Rank 51: copyOwnerToAll took 0.00028037 seconds
+Rank 52: copyOwnerToAll took 0.00028037 seconds
+Rank 53: copyOwnerToAll took 0.00028037 seconds
+Rank 54: copyOwnerToAll took 0.00028037 seconds
+Rank 55: copyOwnerToAll took 0.00028037 seconds
+Rank 56: copyOwnerToAll took 0.00028037 seconds
+Rank 57: copyOwnerToAll took 0.00028037 seconds
+Rank 58: copyOwnerToAll took 0.00028037 seconds
+Rank 59: copyOwnerToAll took 0.00028037 seconds
+Rank 60: copyOwnerToAll took 0.00028037 seconds
+Rank 61: copyOwnerToAll took 0.00028037 seconds
+Rank 62: copyOwnerToAll took 0.00028037 seconds
+Rank 63: copyOwnerToAll took 0.00028037 seconds
+Average time for copyOwnertoAll is 0.00031002 seconds
+
+
+
+			Rank 0	Rank 1	Rank 2	Rank 3	Rank 4	Rank 5	Rank 6	Rank 7	Rank 8	Rank 9	Rank 10	Rank 11	Rank 12	Rank 13	Rank 14	Rank 15	Rank 16	Rank 17	Rank 18	Rank 19	Rank 20	Rank 21	Rank 22	Rank 23	Rank 24	Rank 25	Rank 26	Rank 27	Rank 28	Rank 29	Rank 30	Rank 31	Rank 32	Rank 33	Rank 34	Rank 35	Rank 36	Rank 37	Rank 38	Rank 39	Rank 40	Rank 41	Rank 42	Rank 43	Rank 44	Rank 45	Rank 46	Rank 47	Rank 48	Rank 49	Rank 50	Rank 51	Rank 52	Rank 53	Rank 54	Rank 55	Rank 56	Rank 57	Rank 58	Rank 59	Rank 60	Rank 61	Rank 62	Rank 63	
+Rank 0's ghost cells:	0	68	11	56	31	83	25	6	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	60	0	68	0	0	0	6	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17	
+Rank 1's ghost cells:	74	0	71	65	2	29	1	0	0	0	0	0	0	25	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	34	0	18	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	129	
+Rank 2's ghost cells:	10	72	0	41	0	4	15	31	0	0	0	0	0	87	28	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	77	19	
+Rank 3's ghost cells:	48	69	45	0	83	35	2	17	0	0	0	0	0	33	18	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Rank 4's ghost cells:	33	2	0	85	0	78	26	36	43	0	0	0	31	16	45	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	22	0	0	0	40	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Rank 5's ghost cells:	80	19	4	40	84	0	97	70	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	41	15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Rank 6's ghost cells:	28	1	15	3	24	111	0	79	22	42	0	0	10	21	65	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Rank 7's ghost cells:	6	0	33	20	37	68	79	0	0	45	0	0	18	56	22	20	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Rank 8's ghost cells:	0	0	0	0	45	0	20	0	0	21	0	2	4	36	23	1	0	0	0	0	0	0	0	0	65	0	0	0	30	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Rank 9's ghost cells:	0	0	0	0	0	0	41	45	18	0	8	79	44	7	50	0	0	0	0	0	0	12	0	24	0	0	0	0	92	20	22	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Rank 10's ghost cells:	0	0	0	0	0	0	0	0	0	8	0	69	103	0	4	55	0	0	0	0	0	0	54	0	0	0	0	0	0	24	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Rank 11's ghost cells:	0	0	0	0	0	0	0	0	10	85	70	0	38	0	0	0	0	0	0	0	0	0	39	65	0	0	0	0	47	42	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Rank 12's ghost cells:	0	0	0	0	35	0	11	19	14	49	101	38	0	117	102	48	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Rank 13's ghost cells:	0	25	87	34	16	0	26	54	39	10	0	0	117	0	38	58	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Rank 14's ghost cells:	4	1	29	26	42	9	70	20	25	48	4	0	100	44	0	27	0	0	0	0	0	0	0	0	0	0	0	0	52	36	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	13	0	
+Rank 15's ghost cells:	0	0	0	8	19	0	0	18	1	0	50	0	47	55	28	0	0	0	0	0	0	0	0	0	0	0	0	0	0	72	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Rank 16's ghost cells:	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	87	52	72	49	90	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Rank 17's ghost cells:	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	104	0	85	32	0	0	0	0	0	15	33	42	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Rank 18's ghost cells:	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	52	85	0	54	66	27	0	0	0	0	77	77	0	0	69	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Rank 19's ghost cells:	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	74	32	59	0	51	0	0	0	0	0	72	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Rank 20's ghost cells:	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	48	0	62	51	0	49	80	36	0	0	0	0	0	0	27	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Rank 21's ghost cells:	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	90	0	33	0	50	0	7	82	0	0	0	46	0	0	36	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Rank 22's ghost cells:	0	0	0	0	0	0	0	0	0	0	54	35	0	0	0	0	0	0	0	0	80	7	0	92	0	0	0	0	0	58	64	20	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Rank 23's ghost cells:	0	0	0	0	0	0	0	0	0	24	0	66	0	0	0	0	0	0	0	0	36	89	92	0	0	0	0	0	48	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Rank 24's ghost cells:	0	0	0	0	0	0	0	0	68	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	30	0	57	11	4	1	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Rank 25's ghost cells:	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	0	0	0	0	30	0	16	32	0	0	4	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Rank 26's ghost cells:	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	35	69	71	0	0	0	0	0	17	0	30	0	0	30	23	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Rank 27's ghost cells:	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	46	72	0	0	47	0	0	57	35	30	0	0	0	57	28	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Rank 28's ghost cells:	0	0	0	0	0	0	0	0	33	93	0	49	0	0	52	0	0	0	0	0	0	0	0	53	14	0	0	0	0	54	56	30	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Rank 29's ghost cells:	0	0	0	0	0	0	0	0	1	20	27	42	0	0	31	72	0	0	0	0	0	0	55	0	3	0	0	0	55	0	49	89	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Rank 30's ghost cells:	0	0	0	0	0	0	0	0	0	24	0	1	0	0	0	0	0	0	69	0	27	37	60	5	1	4	30	57	56	48	0	128	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Rank 31's ghost cells:	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	12	0	0	6	20	0	4	11	29	32	29	96	131	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Rank 32's ghost cells:	59	24	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	32	36	61	45	0	37	45	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Rank 33's ghost cells:	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	32	0	40	38	33	73	51	0	0	0	0	0	0	0	0	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Rank 34's ghost cells:	63	18	0	0	22	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	35	46	0	73	0	0	52	0	0	0	0	0	0	0	0	0	26	0	0	0	0	0	0	0	4	0	6	11	4	18	0	27	
+Rank 35's ghost cells:	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	56	38	76	0	32	0	0	0	0	0	0	0	0	0	0	36	0	0	0	0	0	0	0	0	4	0	6	22	0	0	0	0	
+Rank 36's ghost cells:	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	43	36	0	31	0	102	2	73	0	0	0	0	0	35	15	55	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Rank 37's ghost cells:	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	67	0	0	115	0	26	26	0	0	0	0	12	77	76	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Rank 38's ghost cells:	9	6	0	15	35	41	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	33	49	50	0	2	26	0	84	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Rank 39's ghost cells:	8	0	0	16	0	17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	37	0	0	0	82	27	83	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Rank 40's ghost cells:	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	48	0	68	0	23	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Rank 41's ghost cells:	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	48	0	0	60	9	23	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Rank 42's ghost cells:	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	45	36	26	2	75	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Rank 43's ghost cells:	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	68	71	35	0	118	19	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Rank 44's ghost cells:	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	0	6	35	111	0	78	92	47	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Rank 45's ghost cells:	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	35	64	0	0	23	21	24	16	75	0	46	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Rank 46's ghost cells:	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	80	0	0	0	0	2	0	86	45	0	86	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Rank 47's ghost cells:	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	36	48	12	0	0	0	0	74	0	52	4	89	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Rank 48's ghost cells:	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	27	0	0	0	0	0	0	0	0	0	0	0	0	0	0	136	0	0	0	0	0	0	0	0	78	5	8	109	0	0	
+Rank 49's ghost cells:	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	135	0	95	26	12	0	0	0	0	0	30	0	0	0	0	0	
+Rank 50's ghost cells:	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	101	0	101	14	0	56	30	0	0	0	0	0	0	0	0	
+Rank 51's ghost cells:	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	30	100	0	0	0	81	2	0	0	79	0	0	0	0	0	
+Rank 52's ghost cells:	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	12	0	0	78	14	58	0	0	0	0	0	0	0	0	
+Rank 53's ghost cells:	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	63	0	10	108	0	0	0	0	0	0	0	0	
+Rank 54's ghost cells:	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	54	75	16	14	0	129	0	0	0	0	0	0	0	0	
+Rank 55's ghost cells:	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	30	2	55	105	127	0	0	0	0	0	0	0	0	0	
+Rank 56's ghost cells:	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	97	0	60	57	0	81	58	
+Rank 57's ghost cells:	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	97	0	0	75	0	0	0	0	
+Rank 58's ghost cells:	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	6	0	0	0	0	0	0	0	0	0	0	0	0	75	30	0	79	0	0	0	0	0	0	0	41	23	31	0	0	
+Rank 59's ghost cells:	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	13	32	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	58	72	45	0	67	26	0	0	
+Rank 60's ghost cells:	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	57	0	23	63	0	104	26	69	
+Rank 61's ghost cells:	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	21	0	0	0	0	0	0	0	0	0	0	0	0	0	111	0	0	0	0	0	0	0	0	0	38	24	99	0	0	16	
+Rank 62's ghost cells:	0	12	75	0	0	0	0	0	0	0	0	0	0	0	13	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	82	0	0	0	24	0	0	70	
+Rank 63's ghost cells:	23	120	19	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	32	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	59	0	0	0	68	16	69	0	

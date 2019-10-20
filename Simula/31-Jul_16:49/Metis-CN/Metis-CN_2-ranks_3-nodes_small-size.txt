@@ -1,0 +1,59 @@
+Number of nodes is: 3
+Number of cores/ranks per node is: 2
+METIS norne  partitioner with metis node partitioner
+Cell on rank 0 before loadbalancing: 7408
+Cell on rank 1 before loadbalancing: 7389
+Cell on rank 2 before loadbalancing: 7409
+Cell on rank 3 before loadbalancing: 7397
+Cell on rank 4 before loadbalancing: 7414
+Cell on rank 5 before loadbalancing: 7414
+Edge-cut: 2629
+
+
+			Rank 0	Rank 1	Rank 2	Rank 3	Rank 4	Rank 5	
+From rank 0 to: 	0	0	178	0	64	0	
+From rank 1 to: 	0	0	386	0	62	0	
+From rank 2 to: 	176	392	0	0	471	0	
+From rank 3 to: 	0	0	0	0	0	505	
+From rank 4 to: 	62	62	464	0	0	516	
+From rank 5 to: 	0	0	0	504	514	0	
+
+Edge-cut for node partition: 1
+
+
+After loadbalancing process 0 has 7650 cells.
+After loadbalancing process 1 has 7837 cells.
+After loadbalancing process 2 has 8448 cells.
+After loadbalancing process 3 has 7902 cells.
+After loadbalancing process 4 has 8518 cells.
+After loadbalancing process 5 has 8432 cells.
+
+
+=== rate=0, T=0, TIT=0, IT=0
+
+ Elapsed time: 0
+Rank 0: Matrix-vector product took 0.00618978 seconds
+Rank 1: Matrix-vector product took 0.00624539 seconds
+Rank 2: Matrix-vector product took 0.00699666 seconds
+Rank 3: Matrix-vector product took 0.00642116 seconds
+Rank 4: Matrix-vector product took 0.00712934 seconds
+Rank 5: Matrix-vector product took 0.00701194 seconds
+Average time for Matrix-vector product is 0.00666571 seconds
+
+Rank 0: copyOwnerToAll took 0.00016175 seconds
+Rank 1: copyOwnerToAll took 0.00016175 seconds
+Rank 2: copyOwnerToAll took 0.00016175 seconds
+Rank 3: copyOwnerToAll took 0.00016175 seconds
+Rank 4: copyOwnerToAll took 0.00016175 seconds
+Rank 5: copyOwnerToAll took 0.00016175 seconds
+Average time for copyOwnertoAll is 0.000180508 seconds
+
+
+
+			Rank 0	Rank 1	Rank 2	Rank 3	Rank 4	Rank 5	
+Rank 0's ghost cells:	0	0	178	0	64	0	
+Rank 1's ghost cells:	0	0	386	0	62	0	
+Rank 2's ghost cells:	176	392	0	0	471	0	
+Rank 3's ghost cells:	0	0	0	0	0	505	
+Rank 4's ghost cells:	62	62	464	0	0	516	
+Rank 5's ghost cells:	0	0	0	504	514	0	

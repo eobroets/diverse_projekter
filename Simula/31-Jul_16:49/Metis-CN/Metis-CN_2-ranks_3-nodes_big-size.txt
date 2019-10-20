@@ -1,0 +1,59 @@
+Number of nodes is: 3
+Number of cores/ranks per node is: 2
+METIS norne  partitioner with metis node partitioner
+Cell on rank 0 before loadbalancing: 59220
+Cell on rank 1 before loadbalancing: 59064
+Cell on rank 2 before loadbalancing: 59265
+Cell on rank 3 before loadbalancing: 59277
+Cell on rank 4 before loadbalancing: 59287
+Cell on rank 5 before loadbalancing: 59294
+Edge-cut: 9692
+
+
+			Rank 0	Rank 1	Rank 2	Rank 3	Rank 4	Rank 5	
+From rank 0 to: 	0	0	1172	0	0	0	
+From rank 1 to: 	0	0	865	0	108	0	
+From rank 2 to: 	1164	858	0	0	2057	0	
+From rank 3 to: 	0	0	0	0	0	1818	
+From rank 4 to: 	0	108	2043	0	0	2048	
+From rank 5 to: 	0	0	0	1817	2049	0	
+
+Edge-cut for node partition: -9
+
+
+After loadbalancing process 0 has 60392 cells.
+After loadbalancing process 1 has 60037 cells.
+After loadbalancing process 2 has 63344 cells.
+After loadbalancing process 3 has 61095 cells.
+After loadbalancing process 4 has 63486 cells.
+After loadbalancing process 5 has 63160 cells.
+
+
+=== rate=0, T=0, TIT=0, IT=0
+
+ Elapsed time: 0
+Rank 0: Matrix-vector product took 0.0490872 seconds
+Rank 1: Matrix-vector product took 0.0492269 seconds
+Rank 2: Matrix-vector product took 0.0525536 seconds
+Rank 3: Matrix-vector product took 0.0505788 seconds
+Rank 4: Matrix-vector product took 0.0530589 seconds
+Rank 5: Matrix-vector product took 0.0517081 seconds
+Average time for Matrix-vector product is 0.0510356 seconds
+
+Rank 0: copyOwnerToAll took 0.00031491 seconds
+Rank 1: copyOwnerToAll took 0.00031491 seconds
+Rank 2: copyOwnerToAll took 0.00031491 seconds
+Rank 3: copyOwnerToAll took 0.00031491 seconds
+Rank 4: copyOwnerToAll took 0.00031491 seconds
+Rank 5: copyOwnerToAll took 0.00031491 seconds
+Average time for copyOwnertoAll is 0.000332325 seconds
+
+
+
+			Rank 0	Rank 1	Rank 2	Rank 3	Rank 4	Rank 5	
+Rank 0's ghost cells:	0	0	1172	0	0	0	
+Rank 1's ghost cells:	0	0	865	0	108	0	
+Rank 2's ghost cells:	1164	858	0	0	2057	0	
+Rank 3's ghost cells:	0	0	0	0	0	1818	
+Rank 4's ghost cells:	0	108	2043	0	0	2048	
+Rank 5's ghost cells:	0	0	0	1817	2049	0	

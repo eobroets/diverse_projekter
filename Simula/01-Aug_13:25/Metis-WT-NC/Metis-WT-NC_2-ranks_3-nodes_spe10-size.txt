@@ -1,0 +1,53 @@
+Number of nodes is: 3
+Number of cores/ranks per node is: 2
+Metis norne Node cell partitioner
+ Cell on rank 0 before loadbalancing: 370467
+Cell on rank 1 before loadbalancing: 374721
+Cell on rank 2 before loadbalancing: 376811
+Edge-cut: 385016
+
+
+			Rank 0	Rank 1	Rank 2	Rank 3	Rank 4	Rank 5	
+From rank 0 to: 	0	4244	295	4276	1436	1872	
+From rank 1 to: 	4236	0	0	2033	7163	0	
+From rank 2 to: 	245	0	0	3240	2134	1216	
+From rank 3 to: 	4196	2067	3229	0	0	4802	
+From rank 4 to: 	1433	7251	2143	0	0	2617	
+From rank 5 to: 	1935	0	1212	4751	2636	0	
+
+After loadbalancing process 0 has 197356 cells.
+After loadbalancing process 1 has 198666 cells.
+After loadbalancing process 2 has 194198 cells.
+After loadbalancing process 3 has 201652 cells.
+After loadbalancing process 4 has 201850 cells.
+After loadbalancing process 5 has 198939 cells.
+
+
+=== rate=0, T=0, TIT=0, IT=0
+
+ Elapsed time: 0
+Rank 0: Matrix-vector product took 0.160476 seconds
+Rank 1: Matrix-vector product took 0.161615 seconds
+Rank 2: Matrix-vector product took 0.158937 seconds
+Rank 3: Matrix-vector product took 0.163399 seconds
+Rank 4: Matrix-vector product took 0.163516 seconds
+Rank 5: Matrix-vector product took 0.162298 seconds
+Average time for Matrix-vector product is 0.161707 seconds
+
+Rank 0: copyOwnerToAll took 0.000961638 seconds
+Rank 1: copyOwnerToAll took 0.000961638 seconds
+Rank 2: copyOwnerToAll took 0.000961638 seconds
+Rank 3: copyOwnerToAll took 0.000961638 seconds
+Rank 4: copyOwnerToAll took 0.000961638 seconds
+Rank 5: copyOwnerToAll took 0.000961638 seconds
+Average time for copyOwnertoAll is 0.00101508 seconds
+
+
+
+			Rank 0	Rank 1	Rank 2	Rank 3	Rank 4	Rank 5	
+Rank 0's ghost cells:	0	4244	295	4276	1436	1872	
+Rank 1's ghost cells:	4236	0	0	2033	7163	0	
+Rank 2's ghost cells:	245	0	0	3240	2134	1216	
+Rank 3's ghost cells:	4196	2067	3229	0	0	4802	
+Rank 4's ghost cells:	1433	7251	2143	0	0	2617	
+Rank 5's ghost cells:	1935	0	1212	4751	2636	0	

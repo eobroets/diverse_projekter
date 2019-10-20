@@ -1,0 +1,44 @@
+Number of nodes is: 2
+Number of cores/ranks per node is: 2
+Metis Uniform
+Cell on rank 0 before loadbalancing: 11059
+Cell on rank 1 before loadbalancing: 11195
+Cell on rank 2 before loadbalancing: 11090
+Cell on rank 3 before loadbalancing: 11087
+Edge-cut: 1352
+
+
+			Rank 0	Rank 1	Rank 2	Rank 3	
+From rank 0 to: 	0	60	296	0	
+From rank 1 to: 	77	0	247	0	
+From rank 2 to: 	301	254	0	503	
+From rank 3 to: 	0	0	505	0	
+
+After loadbalancing process 0 has 11415 cells.
+After loadbalancing process 1 has 11519 cells.
+After loadbalancing process 2 has 12148 cells.
+After loadbalancing process 3 has 11592 cells.
+
+
+=== rate=0, T=0, TIT=0, IT=0
+
+ Elapsed time: 0
+Rank 0: Matrix-vector product took 0.00928419 seconds
+Rank 1: Matrix-vector product took 0.00948268 seconds
+Rank 2: Matrix-vector product took 0.0102497 seconds
+Rank 3: Matrix-vector product took 0.00947034 seconds
+Average time for Matrix-vector product is 0.00962172 seconds
+
+Rank 0: copyOwnerToAll took 0.00015475 seconds
+Rank 1: copyOwnerToAll took 0.00015475 seconds
+Rank 2: copyOwnerToAll took 0.00015475 seconds
+Rank 3: copyOwnerToAll took 0.00015475 seconds
+Average time for copyOwnertoAll is 0.000214858 seconds
+
+
+
+			Rank 0	Rank 1	Rank 2	Rank 3	
+Rank 0's ghost cells:	0	60	296	0	
+Rank 1's ghost cells:	77	0	247	0	
+Rank 2's ghost cells:	301	254	0	503	
+Rank 3's ghost cells:	0	0	505	0	
